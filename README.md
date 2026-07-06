@@ -1,22 +1,77 @@
-<h1 align="center">Hi 👋, I'm Henrique Lutfi</h1>
-<h3 align="center">A software development student starting a career in technology area</h3>
+<h1 align="center">Henrique Lutfi</h1>
+<h3 align="center">Full Stack Developer · React / TypeScript · Java / Spring Boot</h3>
+<h4 align="center">Spec-Driven & AI-Assisted Development · Remote, Worldwide</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquelutfi&label=Profile%20views&color=0e75b6&style=flat" alt="henriquelutfi" /> </p>
-
-- 🌱 I’m currently learning **React JS | React Native | TypeScript | JavaScript | Java**
-
-- ⚡ Fun fact **graduate in mechanical engineering | studies unreal engine as a hobby | plays games in free time**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/henrique-lutfi-9452a4140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henrique-lutfi-9452a4140/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/henrique-lutfi-9452a4140" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:henriquelutfi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=henriquelutfi&label=Profile%20views&color=1F3864&style=flat" alt="henriquelutfi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquelutfi&show_icons=true&locale=en&layout=compact" alt="henriquelutfi" /></p>
+### About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquelutfi&show_icons=true&locale=en" alt="henriquelutfi" /></p>
+I build full stack systems that ship — from architecture to production. Over 4+ years I've taken projects from zero to deployed solo (frontend, backend, AWS infra, CI/CD), and contributed to a US-based engineering team where I proposed a frontend architecture standard now adopted team-wide, cutting bugs in affected modules by ~20%.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelutfi&" alt="henriquelutfi" /></p>
+I work with **Spec-Driven Development** — writing specs and acceptance criteria before code — to keep AI-assisted development aligned with real business intent, not just fast output.
+
+- 💼 Currently building for a US client at **QAT Global**, working daily with a distributed engineering team
+- 🛠️ Core stack: **React.js, Next.js, TypeScript, Java, Spring Boot, PostgreSQL, AWS, Docker**
+- 📐 Practicing: **Spec-Driven Development, AI-assisted coding (Claude Code, Cursor), automated testing**
+- 🎓 Background in Mechanical Engineering — transitioned into software through an intensive full stack program
+- 📍 Based in Brazil, open to remote roles worldwide
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
+</p>
+
+**Backend & Data**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="36" height="36"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquelutfi&show_icons=true&locale=en&theme=default&hide_border=true" alt="henriquelutfi stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquelutfi&show_icons=true&locale=en&layout=compact&hide_border=true" alt="henriquelutfi top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelutfi&hide_border=true" alt="henriquelutfi streak" />
+</p>
+
+---
+
+<p align="center"><i>Open to remote Full Stack / Software Developer roles — feel free to connect.</i></p>
